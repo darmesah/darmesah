@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @darmesah
-- 👀 I’m interested in MERN Stack Development
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Alex Damisa
+- 👀 I’m a FullStack Web Developer
 - 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me damisa.alex@gmail.com
 
